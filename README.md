@@ -1,2 +1,2 @@
 # LSBN
-Visit Page: https://dinziloz.github.io/LSBN
+Visit Page: https://dinziloz.github.io/LSBN/
